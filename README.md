@@ -74,7 +74,7 @@ The best ideas are still under development.
 
 ## 🏆 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/dp2tBFuKMR?theme=dark&font=Karma&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/anirudra_adhikary?theme=dark&font=Karma&ext=heatmap"/>
 
 ---
 
