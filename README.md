@@ -62,8 +62,6 @@ The best ideas are still under development.
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anirudra-adhikary&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=anirudra-adhikary&theme=tokyonight&hide_border=true"/>
